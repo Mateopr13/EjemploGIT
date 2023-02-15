@@ -1,0 +1,3 @@
+C:/Users/veiga/CLionProjects/Pro2/EjemploGIT/cmake-build-debug/CMakeFiles/EjemploGIT.dir
+C:/Users/veiga/CLionProjects/Pro2/EjemploGIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/veiga/CLionProjects/Pro2/EjemploGIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
